@@ -51,9 +51,8 @@
   },
   "migrations": [
     {
-      "tag": "v4",
-      "deleted_classes": ["MyMCP"],
       "new_sqlite_classes": ["Sandbox"],
+      "tag": "v1",
     },
   ],
   // R2 bucket for persistent storage (moltbot data, conversations, etc.)
